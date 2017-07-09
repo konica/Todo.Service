@@ -1,0 +1,11 @@
+C:\Exercises\Todo.Service\Todo.Service\bin\Debug\Todo.Service.exe.config
+C:\Exercises\Todo.Service\Todo.Service\bin\Debug\Todo.Service.exe
+C:\Exercises\Todo.Service\Todo.Service\bin\Debug\Todo.Service.pdb
+C:\Exercises\Todo.Service\Todo.Service\bin\Debug\RestSharp.dll
+C:\Exercises\Todo.Service\Todo.Service\bin\Debug\RestSharp.xml
+C:\Exercises\Todo.Service\Todo.Service\obj\Debug\Todo.Service.csprojResolveAssemblyReference.cache
+C:\Exercises\Todo.Service\Todo.Service\obj\Debug\Todo.Service.ProjectInstaller.resources
+C:\Exercises\Todo.Service\Todo.Service\obj\Debug\Todo.Service.Reminders.resources
+C:\Exercises\Todo.Service\Todo.Service\obj\Debug\Todo.Service.csproj.GenerateResource.Cache
+C:\Exercises\Todo.Service\Todo.Service\obj\Debug\Todo.Service.exe
+C:\Exercises\Todo.Service\Todo.Service\obj\Debug\Todo.Service.pdb

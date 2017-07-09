@@ -1,0 +1,20 @@
+<package>
+  <metadata>
+    <id>Todo.Service</id>
+    <version>1.0.2-BETA</version>
+    <authors>Trung Thao</authors>
+    <owners>Trung Thao</owners>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The Todo.Service deployment package, built on 7/9/2017</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="C:\Exercises\Todo.Service\Todo.Service\bin\Debug\Todo.Service.exe.config" target="Todo.Service.exe.config" />
+    <file src="C:\Exercises\Todo.Service\Todo.Service\bin\Debug\Todo.Service.exe" target="Todo.Service.exe" />
+    <file src="C:\Exercises\Todo.Service\Todo.Service\bin\Debug\Todo.Service.pdb" target="Todo.Service.pdb" />
+    <file src="C:\Exercises\Todo.Service\Todo.Service\bin\Debug\RestSharp.dll" target="RestSharp.dll" />
+    <file src="C:\Exercises\Todo.Service\Todo.Service\bin\Debug\RestSharp.xml" target="RestSharp.xml" />
+  </files>
+</package>
